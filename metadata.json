@@ -1,0 +1,6 @@
+{
+  "name": "Simple Gym & Martial Arts",
+  "description": "Modern, beginner-friendly training assistant for weight training, martial arts, and smart hybrid scheduling with interactive 3D human anatomy atlas and AI coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
